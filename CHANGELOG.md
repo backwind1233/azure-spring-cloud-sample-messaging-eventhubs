@@ -1,13 +1,5 @@
-## [project-title] Changelog
+# Release History
 
-<a name="x.y.z"></a>
-# x.y.z (yyyy-mm-dd)
+## 1.0.0 (Unreleased)
 
-*Features*
-* ...
 
-*Bug Fixes*
-* ...
-
-*Breaking Changes*
-* ...
